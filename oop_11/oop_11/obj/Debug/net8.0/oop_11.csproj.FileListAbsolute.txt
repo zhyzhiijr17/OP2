@@ -1,0 +1,15 @@
+D:\oop\oop_2024\oop_11\oop_11\obj\Debug\net8.0\oop_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\oop_2024\oop_11\oop_11\obj\Debug\net8.0\oop_11.AssemblyInfoInputs.cache
+D:\oop\oop_2024\oop_11\oop_11\obj\Debug\net8.0\oop_11.AssemblyInfo.cs
+D:\oop\oop_2024\oop_11\oop_11\obj\Debug\net8.0\oop_11.csproj.CoreCompileInputs.cache
+D:\oop\oop_2024\oop_11\oop_11\obj\Debug\net8.0\oop_11.sourcelink.json
+D:\oop\oop_2024\oop_11\oop_11\bin\Debug\net8.0\oop_11.exe
+D:\oop\oop_2024\oop_11\oop_11\bin\Debug\net8.0\oop_11.deps.json
+D:\oop\oop_2024\oop_11\oop_11\bin\Debug\net8.0\oop_11.runtimeconfig.json
+D:\oop\oop_2024\oop_11\oop_11\bin\Debug\net8.0\oop_11.dll
+D:\oop\oop_2024\oop_11\oop_11\bin\Debug\net8.0\oop_11.pdb
+D:\oop\oop_2024\oop_11\oop_11\obj\Debug\net8.0\oop_11.dll
+D:\oop\oop_2024\oop_11\oop_11\obj\Debug\net8.0\refint\oop_11.dll
+D:\oop\oop_2024\oop_11\oop_11\obj\Debug\net8.0\oop_11.pdb
+D:\oop\oop_2024\oop_11\oop_11\obj\Debug\net8.0\oop_11.genruntimeconfig.cache
+D:\oop\oop_2024\oop_11\oop_11\obj\Debug\net8.0\ref\oop_11.dll
